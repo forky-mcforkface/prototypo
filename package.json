@@ -18,7 +18,7 @@
     "escape-string-regexp": "^1.0.5",
     "gfnt.ptf": "byte-foundry/spectral.ptf#feat/simplified-parameters",
     "john-fell.ptf": "byte-foundry/john-fell.ptf#feat/simplified-parameters",
-    "jszip": "^2.5.0",
+    "jszip": "^3.8.0",
     "lifespan": "FranzPoize/lifespan#master",
     "lodash": "^4.17.11",
     "memoize-immutable": "^3.0.0",
